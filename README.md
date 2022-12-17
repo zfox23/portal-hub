@@ -1,4 +1,4 @@
-# hello-world
+# Portal Hub
 
 Basic portal hub using showcase component
 
