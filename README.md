@@ -1,7 +1,5 @@
 # hello-world
 
-Basic JML site example with some primitives and asset types
+Basic portal hub using showcase component
 
-<https://hello-webvr.hashbase.io/>
-
-![hello world](https://i.imgur.com/qo2qUUJ.jpg)
+![image](https://user-images.githubusercontent.com/32600939/208264239-8f2d49e4-05f1-4aa0-a993-003847309528.png)
